@@ -1,5 +1,5 @@
 # Hi there, I'm Ondřej! 👋
-### Full-stack Engineer
+### Full-Stack Engineer
 
 <ul>
   <li>I am a 21 year old Czech engineer who has been interested in coding since the age of 15.</li>
