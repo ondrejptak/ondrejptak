@@ -4,7 +4,7 @@
 <ul>
   <li>I am a 21 year old Czech engineer who has been interested in coding since the age of 15.</li>
   <li>I am currently studying Software Engineering at the University of West Bohemia in Pilsen.</li>
-  <li>I focus on building scalable full-stack web applications using React and Next.js, while also expanding my expertise in Spring Boot and Express.js.</li>
+  <li>I focus on building scalable full-stack web applications using React and Next.js, while also expanding my expertise in Spring Boot and NestJS.</li>
   <li>You can also check my <a href="https://ondrejptak.dev" target="_blank" rel="noopener noreferrer">portfolio</a>.</li>
 </ul>
 
