@@ -54,9 +54,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## 🚀 What am I learning
-- NestJS
+- AWS
+- Spring Boot
 - React Native (with Expo)
-- GSAP (animations)
 
 ---
   
