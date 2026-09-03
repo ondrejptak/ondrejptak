@@ -26,10 +26,6 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![GSAP](https://img.shields.io/badge/gsap-00cc66?style=for-the-badge&logo=gsap&logoColor=white)
 
-### Mobile
-
-![React Native + Expo](https://img.shields.io/badge/react_native_+_expo-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ### Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,21 +38,21 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Hostings
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-
 ### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=Drizzle&logoColor=C5F74F)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Hostings
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+
 ## 🚀 What am I learning
-- AWS
-- Spring Boot
-- React Native (with Expo)
+* **Spring Security** & Advanced Spring Boot architecture
+* **AWS** (Cloud infrastructure & deployment)
+* **React Native / Expo** (Exploring mobile development)
 
 ---
   
